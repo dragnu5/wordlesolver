@@ -15,7 +15,7 @@ Installation
 
 1. Install a userscript manager (e.g., Violentmonkey)
 
-2. [Click to install.](https://raw.githubusercontent.com/dragnu5/wordlesolver/main/wordlesolver.user.js)
+2. [Click to install.](https://raw.githubusercontent.com/dragnu5/wordlesolver/master/wordlesolver.user.js)
 3. Optional: Replace JSON Path at the top of the script with a raw link to your JSON wordlist (format: ["word1", "word2"]).
 
 Usage
