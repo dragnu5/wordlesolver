@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Wordle Solver
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/dragnu5/wordlesolver
+// @version      1.0.1
 // @description  Solves Wordle. Includes Guessing Engine.
 // @author       dragnu5
 // @match        https://www.nytimes.com/games/wordle/*
 // @grant        GM_xmlhttpRequest
+// @downloadURL  https://raw.githubusercontent.com/dragnu5/wordlesolver/master/wordlesolver.user.js
+// @updateURL    https://raw.githubusercontent.com/dragnu5/wordlesolver/master/wordlesolver.user.js
 // ==/UserScript==
 
 (function() {
